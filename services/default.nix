@@ -1,0 +1,6 @@
+{
+  imports = [
+    ./plasma
+    ./ssh.nix
+  ];
+}
